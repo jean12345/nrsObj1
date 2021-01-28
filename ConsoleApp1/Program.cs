@@ -139,6 +139,7 @@ namespace ConsoleApp1
                 }
                 Console.WriteLine(item.Kalbek());
             }
+            //parasiau kazka savo sakoje.
 
         }
 
